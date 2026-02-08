@@ -32,11 +32,11 @@ MANIFEST
 *.spec
 
 # Virtual environments
-.venv
-venv/
-ENV/
-env/
-.env
+# .venv  <-- REMOVED to allow pushing venv
+# venv/  <-- REMOVED to allow pushing venv
+# ENV/   <-- REMOVED to allow pushing venv
+# env/   <-- REMOVED to allow pushing venv
+# .env
 
 # IDEs
 .vscode/
